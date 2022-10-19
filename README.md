@@ -3,5 +3,5 @@
 
 ## Here are a few things I've picked up along my learning journey.
 
-<ol>HTML</ol>  <ol>CSS</ol>    <ol>MSSQL</ol> <ol>Angular</ol>  <ol>Github</ol> <ol>TypeScript</ol> <ol>Python</ol> <ol> DOT Net Technology </ol>
+<ol>HTML</ol>  <ol>CSS</ol>    <ol>MSSQL</ol> <ol>Java</ol> <ol>Angular</ol> <ol> Azure </ol> <ol>Github</ol> <ol>JavaScript</ol> <ol>Python</ol> <ol> DOT Net Technology </ol> <ol> asp.Net </ol>
 
